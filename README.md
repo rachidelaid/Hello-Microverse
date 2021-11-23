@@ -13,9 +13,9 @@ this is my first project with microverse, it's just an html file that says hello
 
 👤 **Rachid El aid**
 
-- GitHub: [@githubhandle](https://github.com/rachidelaid)
-- Twitter: [@twitterhandle](https://twitter.com/rachidelaid1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rachid-elaid-106336203/)
+- GitHub: [@rachidelaid](https://github.com/rachidelaid)
+- Twitter: [@rachidelaid1](https://twitter.com/rachidelaid1)
+- LinkedIn: [rachid elaid](https://www.linkedin.com/in/rachid-elaid-106336203/)
 
 ## Show your support
 
